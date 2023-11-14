@@ -1,2 +1,20 @@
+/* Your Optional CSS Code for Styling */
 
-/* Your CSS Code here. */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+h1, h2 {
+    color: #007bff; /* Set your desired heading color */
+}
+
+a {
+    color: #28a745; /* Set your desired link color */
+}
